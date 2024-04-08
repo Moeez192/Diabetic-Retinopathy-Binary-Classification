@@ -1,0 +1,1 @@
+This code contains the binary classification of diabetic retinopathy image datase. The images were first processed using a gausian filter thhen due to class imbalance i converted the data into a binary. then a custom cnn model was created fo the classification part.
